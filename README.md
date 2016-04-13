@@ -7,3 +7,5 @@ Deploying can be done by transferring the contents of this repository to a remot
 `java -jar wob-server.jar`
 
 It is very important that all dependencies for the jar file to run to be contained in the same folder as the jar file. Dependencies could be library jar files, conf files, and other server jars.
+
+[![Join the chat at https://gitter.im/worldofbalance/wob-jar-files](https://badges.gitter.im/worldofbalance/wob-jar-files.svg)](https://gitter.im/worldofbalance/wob-jar-files?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
